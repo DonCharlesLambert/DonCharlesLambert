@@ -1,7 +1,7 @@
 
 <div style="display: flex;">
   <a href="https://collections.rmg.co.uk/collections/objects/255159.html" style="width: 30%; height: 300px">
-    <img src="https://collections.rmg.co.uk/mediaLib/396/444/e9118.jpg" alt="Testing"/>
+    <img src="https://collections.rmg.co.uk/mediaLib/396/444/e9118.jpg" alt="Testing" style="width: 100%; height: 100%;"/>
   </a>
   <div>
     <h3> You belong in a museum </h3>
