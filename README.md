@@ -1,13 +1,14 @@
-
-<div style="display: flex;">
-  <a href="https://collections.rmg.co.uk/collections/objects/255159.html" style="width: 30%; height: 300px">
-    <img src="https://collections.rmg.co.uk/mediaLib/396/444/e9118.jpg" alt="Testing" style="width: 100%; height: 100%;"/>
-  </a>
-  <div>
-    <h3> You belong in a museum </h3>
-    <p> Coming soon </p>
-  </div>
+<img src="https://collections.rmg.co.uk/mediaLib/396/444/e9118.jpg" alt="Testing" width="40%" height="100%" align="left"
+/>
+<div width="40%" align="center">
+	<p> 
+		<strong>✨ Don Charles - Lambert ✨<br/></strong>
+		🔭 Polygot: Python, Javascript, C <br/>
+		🌱 Interests: Maths, Finance, Politics <br/>
+		💬 Ask me about: Business  <br/>
+   </p>
 </div>
+
 <!--
 **DonCharlesLambert/DonCharlesLambert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
