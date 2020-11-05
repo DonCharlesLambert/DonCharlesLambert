@@ -1,12 +1,11 @@
-<img src="https://collections.rmg.co.uk/mediaLib/396/444/e9118.jpg" alt="Testing" width="40%" height="100%" align="left"
-/>
-<div width="40%" align="center">
+
+<div align="center">
 	<p> 
 		<strong>✨ Don Charles - Lambert ✨<br/></strong>
 		🔭 Polygot: Python, Javascript, C <br/>
 		🌱 Interests: Maths, Finance, Politics <br/>
 		💬 Ask me about: Business  <br/>
-   </p>
+	</p>
 </div>
 
 <!--
