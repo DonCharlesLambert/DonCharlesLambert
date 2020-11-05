@@ -1,5 +1,5 @@
-### Hi there 👋
 
+<img src="https://collections.rmg.co.uk/mediaLib/396/444/e9118.jpg" alt="Testing"/>
 <!--
 **DonCharlesLambert/DonCharlesLambert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
