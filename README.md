@@ -3,8 +3,8 @@
 	<p> 
 		<strong>✨ Don Charles - Lambert ✨<br/></strong>
 		🔭 Polygot: Python, Javascript, C <br/>
-		🌱 Interests: Maths, Finance, Politics <br/>
-		💬 Ask me about: Business  <br/>
+		🌱 Interests: Maths, Finance, Politics (US & UK) <br/>
+		💬 Talk to me about: Business, Web Design, Trading  <br/>
 	</p>
 </div>
 
